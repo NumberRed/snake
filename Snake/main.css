@@ -1,0 +1,23 @@
+body {
+    background: lightblue;
+}
+
+#snakeField, #pauseButton, #resetButton {
+    margin: auto;
+    display: inline-block;
+    border: 1px solid black;
+    background: white;
+    margin-top: 20px;
+}
+
+#resetButton {
+    margin-left: 20px;
+}
+
+#score {
+    margin-top: 50px;
+}
+
+.container {
+    text-align: center;
+}
